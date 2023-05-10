@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio M2 Course Henry
+Este proyecto de prueba en Github
