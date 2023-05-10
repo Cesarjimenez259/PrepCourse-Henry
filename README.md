@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-reporsitorio M2 Coruse Henry
+repositorio M2 Course Henry
